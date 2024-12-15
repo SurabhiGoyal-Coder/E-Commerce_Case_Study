@@ -35,6 +35,6 @@ Insights:
 • According to the sales trend analysis, sales from March 2023 to August 2023 fluctuated with no clear trend.
 • The month of December 2023 has the highest change in the average order value.
 • Product ID 7 has the highest turnover rate and needs to be restocked frequently.
-• Poor visibility on the platform might cause certain products to have a purchase rate below 40% of the total customer base. Implementing targeted marketing campaigns to raise awareness and interest may help 
-  improve the sales of these underperforming products.
+• Poor visibility on the platform might cause certain products to have a purchase rate below 40% of the total customer base. Implementing targeted marketing 
+  campaigns to raise awareness and interest may help improve the sales of these underperforming products.
 • The analysis suggests that the months of September and December will require major restocking of products and increased staff.
